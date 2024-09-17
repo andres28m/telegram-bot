@@ -4,3 +4,6 @@ pandas_ta
 scikit-learn
 joblib
 python-telegram-bot
+telegram
+numpy==1.21.0
+panda
